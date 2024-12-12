@@ -1,1 +1,5 @@
-print("Hello World!")
+<<<<<<< HEAD
+print("Hello World, from master branch!")
+=======
+print("Hello world!")
+>>>>>>> kolmas/master
