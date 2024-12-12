@@ -1,5 +1,2 @@
-print("Hello world!")
-<<<<<<< HEAD
-=======
-print("Hello darkness my old friend")
->>>>>>> viides/master
+print("Hello from main!")
+print("Hello from feature/modify-print!")
